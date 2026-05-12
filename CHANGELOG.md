@@ -1,3 +1,10 @@
+## [0.3.5](https://github.com/dengan-karya/dengankarya-ui/compare/v0.3.4...v0.3.5) (2026-05-12)
+
+
+### Bug Fixes
+
+* bootstrap npm package agaian ([b6cbbc3](https://github.com/dengan-karya/dengankarya-ui/commit/b6cbbc320e60dfadabd1b215a007939c0affe78f))
+
 ## [0.3.4](https://github.com/dengan-karya/dengankarya-ui/compare/v0.3.3...v0.3.4) (2026-05-12)
 
 
