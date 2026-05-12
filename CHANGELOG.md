@@ -1,3 +1,10 @@
+## [0.3.3](https://github.com/dengan-karya/dengankarya-ui/compare/v0.3.2...v0.3.3) (2026-05-12)
+
+
+### Bug Fixes
+
+* bootstrap npm package ([db482d9](https://github.com/dengan-karya/dengankarya-ui/commit/db482d9a95a2341e72d2e1c0236fc0ad93d7eb29))
+
 ## [0.3.2](https://github.com/dengan-karya/dengankarya-ui/compare/v0.3.1...v0.3.2) (2026-05-12)
 
 
