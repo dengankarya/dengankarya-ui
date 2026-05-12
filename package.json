@@ -4,6 +4,10 @@
   "description": "Reusable React component library by dengankarya.com",
   "author": "dengankarya.com",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dengankarya/dengankarya-ui.git"
+  },
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
