@@ -75,13 +75,10 @@ jobs:
           NPM_TOKEN: npm_placeholder_for_version_bump_only
         run: npx semantic-release
 
-      - name: Verify npm auth
-        run: |
-          npm whoami
-          npm ping
-
       - name: Build (post-release)
         run: pnpm build
 
       - name: Publish to npm
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm publish --access public
