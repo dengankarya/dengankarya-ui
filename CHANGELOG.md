@@ -1,3 +1,10 @@
+# [0.5.0](https://github.com/dengan-karya/dengankarya-ui/compare/v0.4.0...v0.5.0) (2026-05-12)
+
+
+### Features
+
+* commit -> bumpt to 0.4.1 ([6ea3be8](https://github.com/dengan-karya/dengankarya-ui/commit/6ea3be8f5cf4c7912f5199643d4b42182a787644))
+
 # [0.4.0](https://github.com/dengan-karya/dengankarya-ui/compare/v0.3.5...v0.4.0) (2026-05-12)
 
 
