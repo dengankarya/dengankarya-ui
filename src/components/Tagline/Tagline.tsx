@@ -94,11 +94,13 @@ export function Tagline({
   anchorProps,
   ...props
 }: TaglineProps) {
+  const finalHref = `${href}${utm_source ? `?utm_source=${utm_source}` : ""}`;
+
   return (
     <footer {...props}>
       <i>
         Thoughtfully crafted by{" "}
-        <a href={`{href}${utm_source ? `?utm_source=${utm_source}` : ''}`} {...anchorProps}>
+        <a href={finalHref} {...anchorProps}>
           dengankarya.com
         </a>
       </i>
