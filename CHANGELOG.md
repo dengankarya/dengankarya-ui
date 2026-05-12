@@ -1,3 +1,10 @@
+# [0.4.0](https://github.com/dengan-karya/dengankarya-ui/compare/v0.3.5...v0.4.0) (2026-05-12)
+
+
+### Features
+
+* test automated releases ([a86cb9a](https://github.com/dengan-karya/dengankarya-ui/commit/a86cb9a6917a83f60cc102634e6c0b6ccc3c88ce))
+
 ## [0.3.5](https://github.com/dengan-karya/dengankarya-ui/compare/v0.3.4...v0.3.5) (2026-05-12)
 
 
