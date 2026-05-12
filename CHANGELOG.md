@@ -1,3 +1,10 @@
+# [0.8.0](https://github.com/dengan-karya/dengankarya-ui/compare/v0.7.0...v0.8.0) (2026-05-12)
+
+
+### Features
+
+* update name ([28d54da](https://github.com/dengan-karya/dengankarya-ui/commit/28d54da0740dcce10d7d5b0b7242aca29932f553))
+
 # [0.7.0](https://github.com/dengan-karya/dengankarya-ui/compare/v0.6.0...v0.7.0) (2026-05-12)
 
 
