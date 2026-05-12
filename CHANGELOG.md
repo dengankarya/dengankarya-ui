@@ -1,3 +1,10 @@
+# [0.6.0](https://github.com/dengan-karya/dengankarya-ui/compare/v0.5.0...v0.6.0) (2026-05-12)
+
+
+### Features
+
+* test correct version publish ([1ef458a](https://github.com/dengan-karya/dengankarya-ui/commit/1ef458addf193a98b7dd53f335332778c6c0d451))
+
 # [0.5.0](https://github.com/dengan-karya/dengankarya-ui/compare/v0.4.0...v0.5.0) (2026-05-12)
 
 
