@@ -1,3 +1,10 @@
+## [0.8.2](https://github.com/dengan-karya/dengankarya-ui/compare/v0.8.1...v0.8.2) (2026-05-12)
+
+
+### Bug Fixes
+
+* check if this working forget to setup OIDC ([d68b899](https://github.com/dengan-karya/dengankarya-ui/commit/d68b8992e80a86af821d828b50fb62728db9a385))
+
 ## [0.8.1](https://github.com/dengan-karya/dengankarya-ui/compare/v0.8.0...v0.8.1) (2026-05-12)
 
 
