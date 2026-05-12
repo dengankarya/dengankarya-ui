@@ -74,5 +74,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npx semantic-release
 
+      - name: Build (post-release)
+        run: pnpm build
+
       - name: Publish to npm
         run: npm publish --access public
