@@ -72,6 +72,7 @@ jobs:
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: npm_placeholder_for_version_bump_only
         run: npx semantic-release
 
       - name: Build (post-release)
