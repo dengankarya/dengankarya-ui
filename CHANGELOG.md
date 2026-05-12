@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/dengan-karya/dengankarya-ui/compare/v0.2.0...v0.3.0) (2026-05-12)
+
+
+### Features
+
+* add documentation to Tagline ([36e31c6](https://github.com/dengan-karya/dengankarya-ui/commit/36e31c6eda1e6f36bdfcb7e4a41bf2474e36de7b))
+
 # [0.2.0](https://github.com/dengan-karya/dengankarya-ui/compare/v0.1.0...v0.2.0) (2026-05-12)
 
 
