@@ -21,6 +21,18 @@ export interface TaglineProps extends HTMLAttributes<HTMLElement> {
   href?: string;
 
   /**
+   * Optional UTM source parameter to append to the href for tracking purposes.
+   * If provided, it will be appended as a query parameter to the href.
+   *
+   * @example
+   * ```tsx
+   * <Tagline href="https://dengankarya.com" utm_source="myapp" />
+   * // Resulting href: "https://dengankarya.com?utm_source=myapp"
+   * ```
+   */
+  utm_source?: string;
+
+  /**
    * Additional HTML attributes to spread onto the `<a>` tag.
    * Useful for adding `target`, `rel`, `className`, or event handlers to the link.
    *
@@ -56,6 +68,12 @@ export interface TaglineProps extends HTMLAttributes<HTMLElement> {
  * ```
  *
  * @example
+ * // With UTM parameters
+ * ```tsx
+ * <Tagline utm_source="teraskota-bali" />
+ * ```
+ *
+ * @example
  * // With custom link attributes
  * ```tsx
  * <Tagline
@@ -72,6 +90,7 @@ export interface TaglineProps extends HTMLAttributes<HTMLElement> {
  */
 export function Tagline({
   href = "https://dengankarya.com",
+  utm_source,
   anchorProps,
   ...props
 }: TaglineProps) {
@@ -79,7 +98,7 @@ export function Tagline({
     <footer {...props}>
       <i>
         Thoughtfully crafted by{" "}
-        <a href={href} {...anchorProps}>
+        <a href={`{href}${utm_source ? `?utm_source=${utm_source}` : ''}`} {...anchorProps}>
           dengankarya.com
         </a>
       </i>
