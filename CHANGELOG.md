@@ -1,3 +1,10 @@
+## [0.8.3](https://github.com/dengan-karya/dengankarya-ui/compare/v0.8.2...v0.8.3) (2026-05-12)
+
+
+### Bug Fixes
+
+* add debug ([3cf2f5f](https://github.com/dengan-karya/dengankarya-ui/commit/3cf2f5f13bea447c45b03c28dc32cd8168a51a71))
+
 ## [0.8.2](https://github.com/dengan-karya/dengankarya-ui/compare/v0.8.1...v0.8.2) (2026-05-12)
 
 
