@@ -1,5 +1,7 @@
 # dengankarya-ui
 
+[![CI / Release](https://github.com/dengan-karya/dengankarya-ui/actions/workflows/release.yml/badge.svg)](https://github.com/dengan-karya/dengankarya-ui/actions/workflows/release.yml)
+
 A minimal, reusable React component library by [dengankarya.com](https://dengankarya.com). Built with TypeScript, published to npm, and ready to use in any React project.
 
 ## Philosophy
