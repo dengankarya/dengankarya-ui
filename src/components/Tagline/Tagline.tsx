@@ -14,10 +14,12 @@ export function Tagline({
 }: TaglineProps) {
   return (
     <footer {...props}>
-      Thoughtfully crafted by{" "}
-      <a href={href} {...anchorProps}>
-        dengankarya.com
-      </a>
+      <i>
+        Thoughtfully crafted by{" "}
+        <a href={href} {...anchorProps}>
+          dengankarya.com
+        </a>
+      </i>
     </footer>
   );
 }
