@@ -1,3 +1,10 @@
+## [0.3.1](https://github.com/dengan-karya/dengankarya-ui/compare/v0.3.0...v0.3.1) (2026-05-12)
+
+
+### Bug Fixes
+
+* npm access issues ([36753fa](https://github.com/dengan-karya/dengankarya-ui/commit/36753fa7ebd78fba07ee3bcf5702398b50d34d49))
+
 # [0.3.0](https://github.com/dengan-karya/dengankarya-ui/compare/v0.2.0...v0.3.0) (2026-05-12)
 
 
